@@ -19,9 +19,10 @@ ul {
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: green;
   }
-  /*Above code is referred from W3SCHOOLS.COM*/
+  /*Above code is referred from W3SCHOOLS.COM
+  It manages the navigation bar*/
   .active{
     background-color: green;
   }
